@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698015629 source:c:\users\user\desktop\facultad\listas\agendav2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
